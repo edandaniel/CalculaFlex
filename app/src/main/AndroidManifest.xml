@@ -13,6 +13,8 @@
         <activity android:name=".feature.form.activity.FormActivity" />
         <activity android:name=".feature.form.activity.ResultActivity" />
         <activity android:name=".feature.form.activity.LoginActivity" />
+
+        <activity android:name=".feature.form.activity.SignUpActivity" />
         <activity
             android:name=".feature.form.activity.SplashActivity"
             android:theme="@style/FullScreen">

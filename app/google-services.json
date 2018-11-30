@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1007243934725",
+    "firebase_url": "https://calculaflexveronezitecnologia.firebaseio.com",
+    "project_id": "calculaflexveronezitecnologia",
+    "storage_bucket": "calculaflexveronezitecnologia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007243934725:android:9fd096f751842e54",
+        "android_client_info": {
+          "package_name": "br.com.veronezitecnologia.calculaflex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007243934725-kpkj85lq5i06ob22mh5ondc0cqi8fp76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.veronezitecnologia.calculaflex",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "1007243934725-e6p9gfhrporl6n1dfttg0939ij9pllvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7YR_lAOw1vcugYmBME1pwxMBgvgHwwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007243934725-e6p9gfhrporl6n1dfttg0939ij9pllvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
