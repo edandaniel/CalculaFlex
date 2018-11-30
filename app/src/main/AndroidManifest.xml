@@ -9,14 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".feature.form.activity.FormActivity">
+        <activity android:name=".feature.form.activity.FormActivity" />
+        <activity android:name=".feature.form.activity.ResultActivity" />
+        <activity android:name=".feature.form.activity.LoginActivity" />
+        <activity
+            android:name=".feature.form.activity.SplashActivity"
+            android:theme="@style/FullScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".feature.form.activity.ResultActivity"></activity>
     </application>
 
 </manifest>
